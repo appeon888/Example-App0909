@@ -7,5 +7,6 @@ global function integer f_test ()
 end prototypes
 
 global function integer f_test ();return 1
+//dfasf
 end function
 
