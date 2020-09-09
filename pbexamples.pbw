@@ -3,7 +3,9 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "PB Examples.pbt";
- 1 "pbt\\conflict2.pbt";
+ 1 "pbt\\conflict1.pbt";
+ 2 "pbt\\conflict2.pbt";
 @end;
-DefaultTarget "pbt\\conflict2.pbt";
-DefaultRemoteTarget "pbt\\conflict2.pbt";
+DefaultTarget "PB Examples.pbt";
+DefaultExportEncode "HEXANSCII";
+DefaultRemoteTarget "PB Examples.pbt";
